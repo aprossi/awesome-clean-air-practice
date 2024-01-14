@@ -13,11 +13,17 @@ A list of decent safety practices in businesses or public administration wrt ind
 
 ### Meetings / Conference venues
 
+* WEF Davos 2023 - https://www3.weforum.org/docs/AM23_Health_and_Safety_Measures.pdf
+
 ## Recommendation and standards
 
 https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html
 
 https://nousaerons.fr/benchmark
+
+https://www.ashrae.org/about/news/2023/ashrae-approves-groundbreaking-standard-to-reduce-the-risk-of-disease-transmission-in-indoor-spaces
+
+
 
 ## Articles covering the topic, and hashtags, links
 
