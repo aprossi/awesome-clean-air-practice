@@ -1,15 +1,33 @@
 # awesome-clean-air-practice
-A list of decent safety practices in businesses or public administration wrt indoor air quality (IAQ)
+A list of decent safety practices in businesses or public administration wrt indoor air quality (IAQ).
+
+Please feel free to open an issue to add comments. 
+
+Several resources are available already from https://nousaerons.fr. Some of the exemplary entries here are derived from there.
 
 ## Businesses and public sector
 
 ### Schools
+
+* Lübeck - https://www.luebeck.de/de/stadtentwicklung/smart-city-luebeck/projekte-und-massnahmen/frische-luft-fuer-klare-koepfe.html
 
 ### Public administrations
 
 ### Corporate
 
 ### Restaurants
+
+It is not (yet?) a directory of safe/virtuous restaurants, but exemplary ones so far. Also, please note that this list is not fully verified. Info/data available on the businesses' web sites are considered.
+
+#### outside europe
+
+* Canada
+  * https://www.apricottreecafe.com (the golden standard as far as I know)
+
+#### Europe
+
+* Germany
+  * https://rive.de/lueftung/
 
 ### Meetings / Conference venues
 
@@ -23,6 +41,11 @@ https://nousaerons.fr/benchmark
 
 https://www.ashrae.org/about/news/2023/ashrae-approves-groundbreaking-standard-to-reduce-the-risk-of-disease-transmission-in-indoor-spaces
 
+## Videos and resources
+
+Including tech
+
+* WHN Clean Air Expo - https://www.youtube.com/playlist?list=PLdA9vZxGUMR0bePaGQJmAqv9dOrjT0ZgG
 
 
 ## Articles covering the topic, and hashtags, links
