@@ -51,6 +51,8 @@ Including tech
 ## Articles covering the topic, and hashtags, links
 
 
+https://www.wienerzeitung.at/a/saubere-luft-als-wirtschaftsmotor
+
 https://www.manager-magazin.de/harvard/coronavirus-und-long-covid-wie-unternehmen-ihre-betriebe-sicherer-machen-koennen-a-26e2413c-076c-43ac-b3ef-5bef4348a4ac
 
 https://hbr.org/2023/11/its-time-for-companies-to-monitor-workplace-air-quality
