@@ -35,6 +35,9 @@ It is not (yet?) a directory of safe/virtuous restaurants, but exemplary ones so
 
 ## Recommendation and standards
 
+* https://www.nationalacademies.org/news/2024/01/public-health-officials-should-urgently-prioritize-reducing-exposure-to-indoor-fine-particulate-matter-new-report-recommends
+  * source https://nap.nationalacademies.org/catalog/27341
+  
 https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html
 
 https://nousaerons.fr/benchmark
