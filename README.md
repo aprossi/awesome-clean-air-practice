@@ -53,6 +53,7 @@ Including tech
 
 ## Articles covering the topic, and hashtags, links
 
+https://taz.de/Filter-und-UV-Licht-gegen-Schadstoffe/!5988444/
 
 https://www.wienerzeitung.at/a/saubere-luft-als-wirtschaftsmotor
 
