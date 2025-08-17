@@ -100,3 +100,20 @@ https://www.cinecov.de/pdf_files/CineCov-Hygieneleitfaden-2022.pdf
 [#DavosSafe @Twitter](https://twitter.com/search?q=%23DavosSafe&src=typed_query)
 
 [#DavosStandard @Twitter](https://twitter.com/search?q=%23DavosStandard&src=typed_query&f=top)
+
+--- 
+
+## Relevant references
+
+Agius, R. M. (2025) A better approach to mitigate the risk of airborne infections in workplaces. Occupational Medicine, 75(1), 1–3. https://doi.org/10.1093/occmed/kqae083.
+
+Curtius, J., Granzin ,M., & and Schrod, J. (2021) Testing mobile air purifiers in a school classroom: Reducing the airborne transmission risk for SARS-CoV-2. Aerosol Science and Technology, 55(5), 586–599. https://doi.org/10.1080/02786826.2021.1877257.
+
+Jimenez, J. L., Marr, L. C., Randall, K., Ewing, E. T., Tufekci, Z., Greenhalgh, T., Tellier, R., Tang, J. W., Li, Y., Morawska, L., Mesiano-Crookston, J., Fisman, D., Hegarty, O., Dancer, S. J., Bluyssen, P. M., Buonanno, G., Loomans, M. G. L. C., Bahnfleth, W. P., Yao, M., … Prather, K. A. (2022) What were the historical reasons for the resistance to recognizing airborne transmission during the COVID-19 pandemic? Indoor Air, 32(8), e13070. https://doi.org/10.1111/ina.13070.
+
+Haddrell, A., Oswin, H., Otero-Fernandez, M., Robinson, J. F., Cogan, T., Alexander, R., Mann, J. F. S., Hill, D., Finn, A., Davidson, A. D., & Reid, J. P. (2024) Ambient carbon dioxide concentration correlates with SARS-CoV-2 aerostability and infection risk. Nature Communications, 15(1), 3487. https://doi.org/10.1038/s41467-024-47777-5.
+
+Morawska, L., Li, Y., & Salthammer, T. (2024) Lessons from the COVID-19 pandemic for ventilation and indoor air quality. Science, 385(6707), 396-401. https://doi.org/10.1126/science.adp2241 
+
+Oswin, H. P., Glachant, L., Lekamge, S. A., Alinaghipour, B., Khan, S. B., & Morawska, L. (2025)  Using indoor CO2 concentration thresholds to understand and improve the air quality of public buildings: A practical approach. Energy and Buildings, 116254. https://doi.org/10.1016/j.enbuild.2025.116254 
+
