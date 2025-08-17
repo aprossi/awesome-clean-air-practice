@@ -5,6 +5,37 @@ Please feel free to open an issue to add comments.
 
 Several resources are available already from https://nousaerons.fr. Some of the exemplary entries here are derived from there.
 
+## Useful resources to be sorted
+
+A well-referenced source of information from France: https://letsair.org
+e.g. https://letsair.org/#mediation 
+
+https://iaq.ucdavis.edu/video-lessons/
+
+https://aerosol.nsysu.edu.tw/en/scopes/108
+
+https://www.learnproject-heu.eu/learn-project-develops-board-game-indoor-air-quality-schools/
+
+https://www.luebeck.de/de/stadtentwicklung/smart-city-luebeck/projekte-und-massnahmen/frische-luft-fuer-klare-koepfe.html
+
+https://bostonschoolsiaq.terrabase.com/
+
+Good thread https://x.com/ukhadds/status/1954086871610380730 
+
+https://www.aivc.org/resource/cognitive-well-being-classrooms-holistic-investigation-indoor-environmental-quality-new
+As quoted by A. Flahault - https://x.com/FLAHAULT/status/1956771543918280834 
+
+https://genevahealthforum.com/improving-indoor-air/
+
+https://cleanaircrew.org/indoor-air-quality-fact-sheet-series/
+
+https://corsirosenthalfoundation.org
+
+https://whn.global/clean-air-expo-speakers/
+
+https://indoorco2map.com
+
+
 ## Businesses and public sector
 
 ### Schools
@@ -49,7 +80,6 @@ https://www.ashrae.org/about/news/2023/ashrae-approves-groundbreaking-standard-t
 Including tech
 
 * WHN Clean Air Expo - https://www.youtube.com/playlist?list=PLdA9vZxGUMR0bePaGQJmAqv9dOrjT0ZgG
-
 
 ## Articles covering the topic, and hashtags, links
 
