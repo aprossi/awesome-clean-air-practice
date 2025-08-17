@@ -5,7 +5,7 @@ Please feel free to open an issue to add comments.
 
 Several resources are available already from https://nousaerons.fr. Some of the exemplary entries here are derived from there.
 
-## Useful resources to be sorted
+## Useful resources
 
 A well-referenced source of information from France: https://letsair.org
 e.g. https://letsair.org/#mediation 
