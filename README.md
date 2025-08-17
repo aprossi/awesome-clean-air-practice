@@ -129,6 +129,8 @@ Morawska, L., et al. (2024) Mandating indoor air quality for public buildings, S
 
 Oswin, H. P., Glachant, L., Lekamge, S. A., Alinaghipour, B., Khan, S. B., & Morawska, L. (2025)  Using indoor CO2 concentration thresholds to understand and improve the air quality of public buildings: A practical approach. Energy and Buildings, 116254. https://doi.org/10.1016/j.enbuild.2025.116254 
 
+Stinson, B. W., Greathouse, E. A., Kapileo, D., & Gall, E. T. (2025). Critical Analysis of a School District-Wide Response to Addressing Indoor Airborne Disease Transmission. Indoor Environments, 100115. https://doi.org/10.1016/j.indenv.2025.100115
+
 Ueki, H., Ujie, M., Komori, Y., Kato, T., Imai, M., & Kawaoka, Y. (2022). Effectiveness of HEPA Filters at Removing Infectious SARS-CoV-2 from the Air. Msphere, 7(4), e00086-22. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9429918/
 
 WHO (2024) Indoor airborne risk assessment in the context of SARS-CoV-2: description of airborne transmission mechanism and method to develop a new standardized model for risk assessment. Available online at:  https://iris.who.int/handle/10665/376346 
