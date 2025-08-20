@@ -101,7 +101,7 @@ https://www.cinecov.de/pdf_files/CineCov-Hygieneleitfaden-2022.pdf
 
 [#DavosStandard @Twitter](https://twitter.com/search?q=%23DavosStandard&src=typed_query&f=top)
 
-## Maker scebe / DYI for IAQ awareness
+## Maker scene / DYI for IAQ awareness
 (links to be better organised)
 * https://github.com/oseiler2/CO2Monitor
 * https://github.com/the-butcher/MOTH.CO2.2
