@@ -36,7 +36,7 @@ https://whn.global/clean-air-expo-speakers/
 https://indoorco2map.com
 
 
-## Businesses and public sector
+## Businesses and public sector - best practice
 
 ### Schools
 
@@ -100,6 +100,16 @@ https://www.cinecov.de/pdf_files/CineCov-Hygieneleitfaden-2022.pdf
 [#DavosSafe @Twitter](https://twitter.com/search?q=%23DavosSafe&src=typed_query)
 
 [#DavosStandard @Twitter](https://twitter.com/search?q=%23DavosStandard&src=typed_query&f=top)
+
+## Maker scebe / DYI for IAQ awareness
+(links to be better organised)
+* https://github.com/oseiler2/CO2Monitor
+* https://github.com/the-butcher/MOTH.CO2.2
+* https://www.tindie.com/stores/fablab/
+* https://learn.adafruit.com/adafruit-scd-40-and-scd-41
+* https://www.umwelt-campus.de/en/forschung/projekte/iot-werkstatt/translate-to-englisch-ampel-selbstbau
+* https://makezine.com/article/education/the-what-how-and-why-of-co-monitoring/
+* https://www.youtube.com/watch?v=0BgssNCPDCc
 
 --- 
 
