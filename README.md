@@ -35,6 +35,8 @@ https://whn.global/clean-air-expo-speakers/
 
 https://indoorco2map.com
 
+https://covidisnotover.info/en/risk-calculator/ 
+
 
 ## Businesses and public sector - best practice
 
