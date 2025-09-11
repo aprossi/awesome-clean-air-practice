@@ -39,7 +39,9 @@ https://covidisnotover.info/en/risk-calculator/
 
 https://www.cleanairforkids.co.uk
 
-https://dagl.de/saubere-luft/studiensammlung/ (in German(
+https://dagl.de/saubere-luft/studiensammlung/ (in German)
+
+https://www.lung.org/clean-air/indoor-air/building-type-air-resources/at-school/iaq-guide/iaq-school-resources
 
 ## Businesses and public sector - best practice
 
