@@ -86,7 +86,7 @@ https://www.ashrae.org/about/news/2023/ashrae-approves-groundbreaking-standard-t
 
 ## Videos and resources
 
-Including tech
+* UN Event "Healthy Indoor Air: A Global Call to Action": https://webtv.un.org/en/asset/k1v/k1vv2t3bma
 
 * WHN Clean Air Expo - https://www.youtube.com/playlist?list=PLdA9vZxGUMR0bePaGQJmAqv9dOrjT0ZgG
 
