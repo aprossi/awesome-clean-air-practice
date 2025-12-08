@@ -126,6 +126,8 @@ https://www.cinecov.de/pdf_files/CineCov-Hygieneleitfaden-2022.pdf
 
 Agius, R. M. (2025) A better approach to mitigate the risk of airborne infections in workplaces. Occupational Medicine, 75(1), 1–3. https://doi.org/10.1093/occmed/kqae083.
 
+Banholzer, N., et al. (2025) The relative contribution of close-proximity contacts, shared classroom exposure and indoor air quality to respiratory virus transmission in schools. Nat Commun. https://doi.org/10.1038/s41467-025-66719-3
+
 Buonanno, G., Ricolfi, L., Morawska, L., & Stabile, L. (2022). Increasing ventilation reduces SARS-CoV-2 airborne transmission in schools: A retrospective cohort study in Italy's Marche region. Frontiers in Public Health, 10, 1087087., https://doi.org/10.3389/fpubh.2022.1087087 
 
 Corsi et al. (2021) Designing infectious disease resilience into school buildings through improvements to ventilation and air cleaning, The Lancet Covid-19 commission task force on safe work, safe school, and safe travel. Available online at https://healthybuildings.hsph.harvard.edu/wp-content/uploads/2024/09/LANCET-April-2021-Designing-infectious-disease-resilience-into-school-buildings-through-improvements-to-venitlation-and-air-cleaning.pdf
