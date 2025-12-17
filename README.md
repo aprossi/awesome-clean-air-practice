@@ -110,6 +110,8 @@ https://www.cinecov.de/pdf_files/CineCov-Hygieneleitfaden-2022.pdf
 
 [#DavosStandard @Twitter](https://twitter.com/search?q=%23DavosStandard&src=typed_query&f=top)
 
+https://policyoptions.irpp.org/2025/07/indoor-air-quality/
+
 ## Maker scene / DYI for IAQ awareness
 (links to be better organised)
 * https://github.com/oseiler2/CO2Monitor
