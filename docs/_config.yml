@@ -1,0 +1,12 @@
+title: Awesome Clean Air Practice
+description: Living document for clean indoor air advocacy
+url: "https://aprossi.github.io"
+baseurl: "/awesome-clean-air-practice"
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+
+# Keep this minimal and GitHub Pages friendly.
+plugins:
+  - jekyll-seo-tag

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}" />
+    {% seo %}
+  </head>
+  <body>
+    <main class="container py-4 py-md-5">
+      <nav class="paper topnav mb-3 py-2">
+        <ul class="nav nav-pills gap-1">
+          <li class="nav-item">
+            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link{% if page.url == '/hb/' %} active{% endif %}" href="{{ '/hb/' | relative_url }}">HB</a>
+          </li>
+        </ul>
+      </nav>
+      <article class="paper">
+        {{ content }}
+      </article>
+      <footer class="small mt-3 px-1">
+        Published on GitHub Pages · Editable via pull requests.
+      </footer>
+    </main>
+    <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+  </body>
+</html>

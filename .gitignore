@@ -1,0 +1,14 @@
+# Jekyll build output
+_site/
+.jekyll-metadata
+.sass-cache/
+
+# Jekyll caches
+.jekyll-cache/
+docs/.jekyll-cache/
+
+# Local scratch files
+tmp/
+
+# macOS
+.DS_Store
