@@ -7,15 +7,15 @@ permalink: /hb/
 <a id="top"></a>
 # Saubere Luft fuer SKB Bildungsoffensive
 
-<div class="lead-note mb-4">
+<!-- <div class="lead-note mb-4">
   Living document submitted to local authorities. Propose improvements and signatures through pull requests.
-</div>
+</div> -->
 
-- Official context: [Offensive fuer mehr Bildungsqualitaet (SKB Bremen)](https://www.bildung.bremen.de/offensive-fur-mehr-bildungsqualitat-483718)
-- Markdown source for this page: [`docs/hb/positionspapier.md`](https://github.com/aprossi/awesome-clean-air-practice/blob/main/docs/hb/positionspapier.md)
-- Signatures file: [`docs/hb/signatures.md`](https://github.com/aprossi/awesome-clean-air-practice/blob/main/docs/hb/signatures.md)
-- Quick link: [Jump to signatures](#signatures)
-- License: [CC0-1.0 (Public Domain)](https://github.com/aprossi/awesome-clean-air-practice/blob/main/LICENSE)
+- Kontext: [Offensive fuer mehr Bildungsqualitaet (SKB Bremen)](https://www.bildung.bremen.de/offensive-fur-mehr-bildungsqualitat-483718)
+- Markdown-Quelltext dieser Seite: [`docs/hb/positionspapier.md`](https://github.com/aprossi/awesome-clean-air-practice/blob/main/docs/hb/positionspapier.md)
+- Unterschriften: [`docs/hb/signatures.md`](https://github.com/aprossi/awesome-clean-air-practice/blob/main/docs/hb/signatures.md)
+- Schnellzugriff: [Weiter zu Unterschriften](#signatures)
+- Lizenz: [CC0-1.0 (Public Domain)](https://github.com/aprossi/awesome-clean-air-practice/blob/main/LICENSE)
 
 ---
 
