@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Saubere Luft fuer SKB Bildungsoffensive
+title: Saubere Luft für SKB Bildungsoffensive
 permalink: /hb/
 ---
 
 <a id="top"></a>
-# Saubere Luft fuer SKB Bildungsoffensive
+# Saubere Luft für SKB Bildungsoffensive
 
 <!-- <div class="lead-note mb-4">
   Living document submitted to local authorities. Propose improvements and signatures through pull requests.
 </div> -->
 
-- Kontext: [Offensive fuer mehr Bildungsqualitaet (SKB Bremen)](https://www.bildung.bremen.de/offensive-fur-mehr-bildungsqualitat-483718)
+- Kontext: [Offensive für mehr Bildungsqualität (SKB Bremen)](https://www.bildung.bremen.de/offensive-fur-mehr-bildungsqualitat-483718)
 - Markdown-Quelltext dieser Seite: [`docs/hb/positionspapier.md`](https://github.com/aprossi/awesome-clean-air-practice/blob/main/docs/hb/positionspapier.md)
 - Unterschriften: [`docs/hb/signatures.md`](https://github.com/aprossi/awesome-clean-air-practice/blob/main/docs/hb/signatures.md)
 - Schnellzugriff: [Weiter zu Unterschriften](#signatures)
