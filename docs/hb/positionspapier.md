@@ -584,6 +584,8 @@ Ressourcen und weiterführende Links
 
 - [https://indoorco2map.com/](https://indoorco2map.com/)
 
+- [https://worldhealthassembly2026.genevahealthforum.com/healthy-indoor-air-a-global-call-to-action/](https://worldhealthassembly2026.genevahealthforum.com/healthy-indoor-air-a-global-call-to-action/)
+
 *Erstellt im Rahmen der Partizipationsphase zur Qualitätsoffensive
 2026/2027 (Bremen). Saubere Luft für Bildungschancen: Konkrete Maßnahmen
 zur Steigerung der Bildungsqua­lität in Bremen. Kurzfassung: Wirksamste und
